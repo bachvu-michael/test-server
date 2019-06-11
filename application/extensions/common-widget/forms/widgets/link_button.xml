@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.link_button:">
+	<tab>
+		<fieldset>
+			<field name="title" />
+			<field name="link" />
+		</fieldset>
+	</tab>
+</form>

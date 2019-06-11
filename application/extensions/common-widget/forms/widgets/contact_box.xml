@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.contact_box:">
+	<tab>
+		<fieldset>
+			<field name="title" 	label="Title" />
+			<field name="address" 	label="Address" />
+			<field name="phone" 	label="Phone" />
+			<field name="email" 	label="Email" />
+			<field name="website" 	label="Website" />
+			<field name="content" 	control="richeditor" label="Content" />
+		</fieldset>
+	</tab>
+</form>

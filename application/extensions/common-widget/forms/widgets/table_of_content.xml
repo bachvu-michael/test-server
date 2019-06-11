@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.table_of_content:">
+	<tab>
+		<fieldset>
+			<field name="rowitems" control="select" values="2,3,4" labels="2,3,4" />
+			<field name="imagesize" control="select" values="table_of_content,table_of_content_small" labels="Normal (300x200),Small (84x56)" />
+			<field name="align" control="select" values="left,center" labels="Left,Center" />
+			<field name="contents" control="objectPicker" object="common_widget_content" multiple="true" sortable="true" quickadd="true" quickedit="true" />
+		</fieldset>
+	</tab>
+</form>

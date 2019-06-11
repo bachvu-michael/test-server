@@ -1,0 +1,14 @@
+{
+    "name":"goldenbase.com",
+    "version":"1.0.0",
+    "author":"goldenbase author",
+    "slug":"goldenbaseId",
+    "createPackageDirectory" : false,
+    "private":true,
+    "installPaths":{
+        "presidecms":"preside"
+    },
+    "dependencies":{
+        "presidecms":"stable"
+    }
+}

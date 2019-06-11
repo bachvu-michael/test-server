@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.gallery:">
+	<tab>
+		<fieldset>
+            <field sortorder="60" name="image" control="assetPicker" allowedTypes="image" multiple="false" label="Image" />
+            <field sortorder="60" name="title" label="Title" />
+            <field sortorder="60" name="subtitle" label="Subtitle" />
+            <field sortorder="60" name="content" control="textarea" label="Content" />
+            <field sortorder="60" name="button_text" label="Button Text" />
+            <field sortorder="60" name="button_link" label="Button Link" />
+		</fieldset>
+	</tab>
+</form>

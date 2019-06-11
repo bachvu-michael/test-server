@@ -1,0 +1,19 @@
+{
+    "name":"Common Widget",
+    "version":"1.0.0",
+    "author":"Maysoft",
+    "homepage":"http://git.rasia.wiki/rasia/common-widget.git",
+    "type":"preside-extensions",
+    "directory":"application/extensions",
+    "location":"http://git.rasia.wiki/rasia/common-widget.git",
+    "repository":{
+        "type":"git",
+        "URL":"http://git.rasia.wiki/rasia/common-widget.git"
+    },
+    "slug":"common-widget",
+    "projectURL":"",
+    "ignore":[
+        ".git/*",
+        ".gitignore"
+    ]
+}

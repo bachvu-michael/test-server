@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.two_columns:">
+	<tab>
+		<fieldset>
+			<field name="layout"       control="select" values="3,4,5,6,7,8,9" labels="3-9,4-8,5-7,6-6,7-5,8-4,9-3"/>
+			<field name="left_column"  control="richeditor" />
+			<field name="right_column" control="richeditor" />
+		</fieldset>
+	</tab>
+</form>

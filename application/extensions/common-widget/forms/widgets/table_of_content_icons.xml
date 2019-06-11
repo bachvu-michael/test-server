@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.table_of_content_icons:">
+	<tab>
+		<fieldset>
+			<field name="rowitems" control="spinner" default="5" required="true" />
+			<field name="imagesize" control="select" values="table_of_content,table_of_content_small" labels="Normal (300x200),Small (84x56)" />
+			<field name="contents" control="objectPicker" object="common_widget_content_icon" multiple="true" sortable="true" quickadd="true" quickedit="true" />
+		</fieldset>
+	</tab>
+</form>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<tab id="basic" sortorder="10" >
+		<fieldset id="basic" sortorder="10">
+
+			<field binding="common_widget_button_HTWF.title"    required="true" />
+			<field binding="common_widget_button_HTWF.link"     required="true" />
+			<field binding="common_widget_button_HTWF.icon" />
+			<field binding="common_widget_button_HTWF.iconCustom" />
+			<field binding="common_widget_button_HTWF.style"    control="select"    required="true" labels="SQUARE BUTTONS,CIRCLE BUTTONS,LINK BUTTONS,ANIMATED SQUARE BUTTONS,ANIMATED CIRCLE BUTTONS,SQUARE NO BODER BUTTONS" values="btn,btn circle-button,btn-text,btn anima-button,circle-button btn anima-button,btn btn-border"/>
+			<field binding="common_widget_button_HTWF.size"     control="select"    required="true"  labels="x1,x2,x3,x4" values="btn-xs,btn-sm,btn-default,btn-lg"/>
+		</fieldset>
+	</tab>	
+</form>

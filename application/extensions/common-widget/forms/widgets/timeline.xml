@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.timeline:">
+	<tab>
+		<fieldset>
+			<field name="title" label="Timeline Title" />
+			<field name="position" control="select" values="left,right" labels="left,right" default="right" />
+			<field name="timelines" control="objectPicker" object="common_widget_timeline" multiple="true" sortable="true" quickadd="true" quickedit="true" />
+		</fieldset>
+	</tab>
+</form>

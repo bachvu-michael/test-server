@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.features_content:">
+	<tab>
+		<fieldset>
+			<field name="title" control="textInput" />
+			<field name="featurescontent" control="objectPicker" object="common_widget_features_content" multiple="true" sortable="true" quickadd="true" quickedit="true" />
+		</fieldset>
+	</tab>
+</form>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.price_table:">
+	<tab>
+		<fieldset>
+			<field name="title" />
+			<field name="pricelist" control="objectPicker" object="common_widget_price" multiple="true" sortable="true" quickadd="true" quickedit="true"/>
+		</fieldset>
+	</tab>
+</form>

@@ -1,0 +1,12 @@
+/WEB-INF
+/uploads
+/logs
+/application/config/.injectedConfiguration
+/application/extensions/*
+/preside
+!/application/extensions/README.md
+!/application/extensions/extensions.json
+!/application/extensions/common-widget/
+.twgit*
+/WEB-INF
+/assets/node_modules

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.tab:">
+	<tab>
+		<fieldset>
+            	<field name="tabs" control="objectPicker" object="common_widget_tab" multiple="true" sortable="true" quickadd="true" quickedit="true" />
+		</fieldset>
+	</tab>
+</form>

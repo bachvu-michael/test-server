@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.banner_detail:">
+	<tab>
+		<fieldset>
+            <field sortorder="60" name="doNoThing" label="do no thing" />
+		</fieldset>
+	</tab>
+</form>
